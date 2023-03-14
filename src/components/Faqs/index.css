@@ -1,0 +1,16 @@
+/* Write your code here. */
+.bg-container {
+  padding: 50px;
+  background-color: #f1f5f8;
+}
+
+.heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #cb8805;
+  font-family: 'Roboto';
+  background-color: #ffffff;
+  border-radius: 15px;
+}
